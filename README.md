@@ -24,9 +24,6 @@ LIVE: SOC | OSINT | DFIR | AUTOMATION
 - Automatisation SOC / DFIR / OSINT
 - Threat intel, corrélation, triage rapide
 
-## Stack
-`Python` `Bash` `Linux` `Docker` `FastAPI` `MongoDB`
-
 ## Projets
 - `Threat_Intel_Aggregator`
 - `soc_dashboard`
