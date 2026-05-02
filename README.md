@@ -31,8 +31,5 @@ LIVE: SOC | OSINT | DFIR | AUTOMATION
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonFire03&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonFire03&theme=highcontrast&hide_border=true" />
-</p>
 
 <p align="center"><b>"Pas de blabla. Des outils qui tiennent la charge."</b></p>
