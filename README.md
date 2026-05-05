@@ -27,7 +27,7 @@ LIVE: SOC | OSINT | DFIR | AUTOMATION
 
 ## Télémétrie
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SonFire03&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+ 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonFire03&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
