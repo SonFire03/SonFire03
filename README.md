@@ -20,11 +20,6 @@ LIVE: SOC | OSINT | DFIR | AUTOMATION
 - Automatisation SOC / DFIR / OSINT
 - Threat intel, corrélation, triage rapide
 
-## Projets
-- `Threat_Intel_Aggregator`
-- `soc_dashboard`
-- `DFIR_Case_Manager`
-
 ## Télémétrie
 
 <p align="center">
