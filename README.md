@@ -14,8 +14,6 @@ LIVE: SOC | DFIR | THREAT INTEL | AUTOMATION
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=Blue+Team+discipline.+Builder+instinct.;No+noise.+Only+impact." alt="Typing SVG" />
 </p>
 
-**Sofiane Dehimi** · France · Dev & cybersécurité (orientation Blue Team / SOC L1)
-
 Automatisation, outils locaux, FastAPI, Linux. Open-source first.
 
 ## Focus
